@@ -475,6 +475,7 @@ enum class Mod
     // Blue Mage
     BLUE_POINTS       = 309, // Tracks extra blue points
     BLUE_LEARN_CHANCE = 945, // Additional chance to learn blue magic
+    BLUE_MAGIC_BARRIER = 1045,
 
     // Corsair
     EXP_BONUS        = 382, //
