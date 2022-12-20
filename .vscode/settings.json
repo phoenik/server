@@ -547,6 +547,7 @@
         "complex": "cpp",
         "coroutine": "cpp",
         "resumable": "cpp",
-        "typeindex": "cpp"
+        "typeindex": "cpp",
+        "*.tcc": "cpp"
     },
 }

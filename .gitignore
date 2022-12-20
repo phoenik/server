@@ -13,6 +13,7 @@ TestResults
 *.user
 *.sln.docstates
 *.DS_Store
+.vscode/
 
 # Build results
 build/
